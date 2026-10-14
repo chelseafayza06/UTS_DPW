@@ -108,4 +108,29 @@ button:hover, .button:hover {
     border-radius: 15px;
 }
 
+#contactForm {
+    max-width: 600px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+
+#formMessage {
+    margin-top: 15px;
+    color: brown;
+}
+
 
